@@ -1,0 +1,21 @@
+.flex-container
+{
+    justify-content: center;
+    align-items: center;
+}
+.view
+{
+    
+    font-size:large;
+    font-style: oblique;
+    font-weight: 700;
+}
+#btn
+{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    height: 30px;
+    width: 300px;
+    border-radius: 15px;
+}

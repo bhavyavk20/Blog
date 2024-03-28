@@ -1,0 +1,25 @@
+
+* {
+  box-sizing: border-box;
+}
+ .home
+{
+  background-color: rgb(87, 180, 194);
+  text-align: right;
+  padding: 40px;
+  font-weight: 400;
+  font-size: 18px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+li
+{
+   display: inline;
+   color: white;
+   padding: 30px;
+}
+.home li a
+{
+   color: white;
+   text-decoration: none;
+}
+

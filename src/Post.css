@@ -1,0 +1,19 @@
+*
+{
+    box-sizing: border-box;
+}
+.post
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button
+{
+    background-color: black;
+    color: white;
+    width: 250px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 15px;
+}

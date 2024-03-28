@@ -1,0 +1,23 @@
+*
+{
+    box-sizing: border-box;
+}
+.reg
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input
+{
+   width: 450px;
+   height: 30px;
+   border: 1px solid rgb(139, 134, 134);
+   border-radius: 10px;
+   font-size: 15px;
+}
+input[type=radio]
+{
+    width: 15px;
+    
+}
